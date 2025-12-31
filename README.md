@@ -1,4 +1,4 @@
-# 👋 안녕하세요, [본인 이름/닉네임]입니다!
+# 👋 안녕하세요, jjwoori123입니다!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=bars&color=auto&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=50" />
