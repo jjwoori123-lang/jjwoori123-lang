@@ -1,34 +1,48 @@
 # 👋 안녕하세요, jjwoori123입니다!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=bars&color=auto&height=150&section=header&text=Welcome%20to%20My%20World&fontSize=50" />
-</p>
 
 ### 🛠 Tech Stack
+
+#### 🐍 Backend & API
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</p>
+
+#### 🤖 AI & Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 **현재 작업 중인 프로젝트:** [프로젝트 이름 또는 설명]
-- 🌱 **요즘 공부하는 기술:** [기술 스택 (예: TypeScript, Docker)]
-- 💬 **궁금한 점은 언제든:** [상담 가능한 분야]
-- ⚡ **Fun Fact:** [자신에 대한 재미있는 사실 하나!]
+### 🚀 Quick Glance
+| Category | Content |
+| :--- | :--- |
+| 🔭 **Working on** | Flask와 AI 모델을 결합한 지능형 웹 서비스 |
+| 🌱 **Learning** | 딥러닝 모델의 효율적인 서빙과 성능 최적화 |
+| 👯 **Collaboration** | Python 기반 백엔드 아키텍처 및 AI 솔루션 협업 |
+| 💬 **Ask me about** | Flask를 이용한 RESTful API 설계 및 모델 배포 |
+| ⚡ **Fun Fact** | 디버깅 중 해결책은 주로 커피 한 잔 이후에 나타납니다 ☕ |
+
+---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjwoori123-lang&show_icons=true&theme=radical" alt="jjwoori123-lang's stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjwoori123-lang&theme=radical" alt="jjwoori123-lang's streak" />
-</p>
+
+---
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:이메일주소@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="본인블로그링크"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jjwoori123-lang&color=blueviolet&style=flat-square&label=VISITORS" alt="Visitors Count" />
 </p>
