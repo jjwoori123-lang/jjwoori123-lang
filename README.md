@@ -39,6 +39,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjwoori123-lang&theme=radical" alt="jjwoori123-lang's streak" />
 
 ---
+### BaekJoon Tier
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwoori123)](https://solved.ac/jjwoori123/)
+
+---
 
 ### 📫 Connect with Me
 <p align="left">
